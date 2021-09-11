@@ -2,6 +2,4 @@
 
 this is a simple readme file.
 
-new stuff
-
 causes trouble.
